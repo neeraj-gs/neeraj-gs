@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @neeraj-gs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+Hello I am Neeraj GS
+A 3rd Year UNdergraduate Student pursuiing Computer Science in PES Universit
 
-<!---
-neeraj-gs/neeraj-gs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me:
+I am a Keen Open-Source and Remote Developer 
+Tech Stacks i Know
+  Git and Github
+  Java Script
+  TypeScript 
+  Web Developemnt
+
+
+
