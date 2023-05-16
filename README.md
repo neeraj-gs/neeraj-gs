@@ -8,6 +8,11 @@ Tech Stacks i Know
   Java Script
   TypeScript 
   Web Developemnt
+  
+  Tech Stacks i Am Learning
+    Web 3.0
+    Web RTC
+    
 
 
 
