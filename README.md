@@ -12,6 +12,8 @@ Tech Stacks i Know
   Tech Stacks i Am Learning
     Web 3.0
     Web RTC
+    Ethereum blockchain
+    Smart Contract creation and usage.
     
 
 
