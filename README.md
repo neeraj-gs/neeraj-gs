@@ -15,6 +15,9 @@ Tech Stacks i Know
     Ethereum blockchain
     Smart Contract creation and usage.
     
+    
+All the GIF's and all will be uploaded later.
+Just the contents are present and tehn we can add the gifs anda detailing .
 
 
 
