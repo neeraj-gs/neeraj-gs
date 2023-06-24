@@ -19,7 +19,7 @@ Tech Stacks i Know
 All the GIF's and all will be uploaded later.
 Just the contents are present and tehn we can add the gifs anda detailing .
 
-Create a seperate readme markdown file and upload it on youtibe to make it better view to the users visiting your github profile.
+Create a seperate readme markdown file and upload it on youtibe to make. it better view to the users visiting your github profile.
 ..
 
 It is a Markdown file.
