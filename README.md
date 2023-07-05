@@ -23,6 +23,7 @@ Create a seperate readme markdown file and upload it on youtibe to make. it bett
 ..
 
 It is a Markdown file.
+Will first update this and linkedin for better reachability and visibility
 
 
 
