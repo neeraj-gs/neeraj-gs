@@ -1,29 +1,14 @@
-Hello I am Neeraj GS
-A 3rd Year UNdergraduate Student pursuiing Computer Science in PES Universit
+<h2>Hey There and Ciao!</h2>
 
-About Me:
-I am a Keen Open-Source and Remote Developer 
-Tech Stacks i Know
-  Git and Github
-  Java Script
-  TypeScript 
-  Web Developemnt
-  
-  Tech Stacks i Am Learning
-    Web 3.0
-    Web RTC
-    Ethereum blockchain
-    Smart Contract creation and usage.
-    
-    
-All the GIF's and all will be uploaded later.
-Just the contents are present and tehn we can add the gifs anda detailing .
+<h3 align="left">I am a self-motivated and self-taught full-stack Developer with excellent communication and interpersonal skills, and I am always eager to learn new technologies and techniques to enhance and upskill as a developer. I am an Open Source and Web3 enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
-Create a seperate readme markdown file and upload it on youtibe to make. it better view to the users visiting your github profile.
-..
-
-It is a Markdown file.
-Will first update this and linkedin for better reachability and visibility
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-gs&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-gs" /> </p>
 
 
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj-gs&" alt="neeraj-gs" /></p>
