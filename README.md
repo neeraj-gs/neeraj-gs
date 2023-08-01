@@ -1,4 +1,4 @@
-<h2>Hey There and Ciao!</h2>
+<h2>Hii There and Ciao!</h2>
 
 <h3 align="left">I am a self-motivated and self-taught full-stack Developer with excellent communication and interpersonal skills. I am always eager to learn new technologies and techniques to enhance and upskill as a developer. I am an Open Source and Web3 enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge-sharing happen through open-source. I enjoy learning in public.</h3>
 
