@@ -1,6 +1,6 @@
 <h2>Hii There and Ciao!</h2>
 
-<h3 align="left">I am a self-motivated and self-taught full-stack Developer with excellent communication and interpersonal skills. I am always eager to learn new technologies and techniques to enhance and upskill as a developer. I am an Open Source and Web3 enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge-sharing happen through open-source. I enjoy learning in public.</h3>
+<h3 align="left">I am a Full Stack Developer. Looking to Collaborate and join a problem-solving Team</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-gs&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-gs" /> </p>
 
