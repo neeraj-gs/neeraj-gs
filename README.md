@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/neeraj-gs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="https://www.linkedin.com/in/neeraj-gs/" height="30" width="40" /></a>
   <a href="https://twitter.com/neeraj_gs_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/neeraj_gs_05" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-gs&label=Visitors&color=0e75b6&style=flat" alt="neeraj-gs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-gs&label=Views&color=0e75b6&style=flat" alt="neeraj-gs" /> </p>
 
 
 
