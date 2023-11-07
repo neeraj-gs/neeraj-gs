@@ -1,7 +1,7 @@
 <h2 align="center">Hii There👋 and Ciao!</h2>
 
 
-<h4 align="center">Full Stack Developer💻 • TyepScript • ReactJs • Next.Js • GraphQL • SQL • Prisma ORM • Tailwind CSS • Web 3.0🌐 • Open-Source📈 </h4>
+<h4 align="center">Full Stack Developer💻 • TyepScript • ReactJs • Next.Js • GraphQL • SQL • Prisma ORM • Tailwind CSS • Web 3.0🌐 •</h4>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
