@@ -6,7 +6,7 @@
 <h4 align="left">My Portfolio:</h4>
 <p align="left">
   <a href="https://neeraj-gs-portfolio.vercel.app/" target="blank">
-    <img align="center" height="30" width="40" alt="Portfolio Website" src="https://github.com/neeraj-gs/neeraj-gs/assets/132639448/cad560fb-11e1-4417-9127-e94a07a13091" />
+    <img align="center" height="20" width="30" alt="Portfolio Website" src="https://github.com/neeraj-gs/neeraj-gs/assets/132639448/cad560fb-11e1-4417-9127-e94a07a13091" />
   </a>
 </p>
 
