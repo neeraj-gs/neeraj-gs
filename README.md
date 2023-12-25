@@ -1,7 +1,12 @@
-<h2 align="center">Hii There👋 and Ciao!</h2>
-
 
 <h4 align="center">Full Stack Developer💻 • TyepScript • ReactJs • Next.Js • GraphQL • SQL • Prisma ORM • Tailwind CSS • Web 3.0🌐 •</h4>
+
+<h4 align="left">My Portfolio:</h4>
+<p align="left">
+  <a href="https://neeraj-gs-portfolio.vercel.app/" target="blank">
+    <img align="center" height="30" width="40" alt="Portfolio Website" src="https://github.com/neeraj-gs/neeraj-gs/assets/132639448/cad560fb-11e1-4417-9127-e94a07a13091" />
+  </a>
+</p>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
