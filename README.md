@@ -1,6 +1,6 @@
 <h2 align="center">Hii There👋 and Ciao!</h2>
 
-<h4 align="center">Full Stack Developer💻 • TypeScript • ReactJs • Next.Js • GraphQL • SQL • Prisma ORM • Tailwind CSS • Web 3.0🌐 •</h4>
+<h4 align="center">Full Stack Blockchain Developer💻 • TypeScript • Next.Js • GraphQL • SQL • Prisma ORM • Web 3.0🌐 •</h4>
 
 <h4 align="left">My Portfolio:</h4>
 <p align="left">
