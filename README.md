@@ -1,16 +1,27 @@
-<h2 align="center">Hii There👋 and Ciao!</h2>
+<h1 align="center">Hey, I'm Neeraj 👋</h1>
 
-<h4 align="center">Full Stack Blockchain Developer💻 • TypeScript • Next.Js • GraphQL • SQL • Prisma ORM • Web 3.0🌐 •</h4>
+<h3 align="center">Full Stack Developer & AI Solutions Engineer</h3>
 
-<h4 align="left">My Portfolio:</h4>
-<p align="left">
-  <a href="https://neeraj-gs-portfolio.vercel.app/" target="_blank">
-    <img align="left" height="30" width="40" alt="Portfolio Website" src="https://github.com/neeraj-gs/neeraj-gs/assets/132639448/cad560fb-11e1-4417-9127-e94a07a13091" />
-  </a>
-  <a href="https://linkedin.com/in/neeraj-gs/" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="https://www.linkedin.com/in/neeraj-gs/" height="30" width="40" /></a>
-  <a href="https://twitter.com/neeraj_gs_05" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/neeraj_gs_05" height="30" width="40" /></a>
+<p align="center">
+I build intelligent web applications and AI-powered automation systems that solve real business problems.
 </p>
 
-<br>
+<p align="center">
+  <a href="https://www.neerajgs.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-neerajgs.dev-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/neeraj-gs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-neeraj--gs-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/neeraj_gs_05" target="_blank"><img src="https://img.shields.io/badge/Twitter-@neeraj__gs__05-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+</p>
 
-<h6 align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-gs&label=ProfileViews&color=0e75b6&style=flat" alt="neeraj-gs" /> </h6>
+---
+
+### What I Do
+
+- 🛠️ **Full Stack Development** — React, Next.js, Node.js, TypeScript
+- 🤖 **AI Agents & Automation** — LLMs, n8n, LangChain, Prompt Engineering
+- 🚀 **Product Development** — End-to-end ownership from idea to deployment
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neeraj-gs&label=Profile%20Views&color=0e75b6&style=flat-square" alt="neeraj-gs" />
+</p>
