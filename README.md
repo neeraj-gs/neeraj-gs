@@ -14,13 +14,7 @@ I build intelligent web applications and AI-powered automation systems that solv
 
 ---
 
-### What I Do
 
-- 🛠️ **Full Stack Development** — React, Next.js, Node.js, TypeScript
-- 🤖 **AI Agents & Automation** — LLMs, n8n, LangChain, Prompt Engineering
-- 🚀 **Product Development** — End-to-end ownership from idea to deployment
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neeraj-gs&label=Profile%20Views&color=0e75b6&style=flat-square" alt="neeraj-gs" />
